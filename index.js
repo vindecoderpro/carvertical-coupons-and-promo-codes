@@ -10,7 +10,8 @@ const discountCodes = [
     page: 'https://istorikocar.gr/kouponia-kai-kodikoi-prosforas-carvertical/',
     title: 'carVertical Coupons and Promo Codes',
     button: 'carVertical Coupon',
-    discount_code: 'CARGR'
+    discount_code: 'CARGR',
+    percentage: '20%'
   }
 ];
 

@@ -36,9 +36,9 @@ console.log(codes)
 
 ## Available Discount Codes
 
-| Country | Website | Page | Title | Button | Discount Code |
-|---------|---------|------|-------|--------|---------------|
-| Greece | [istorikocar.gr](https://istorikocar.gr/) | [kouponia-kai-kodikoi-prosforas-carvertical](https://istorikocar.gr/kouponia-kai-kodikoi-prosforas-carvertical/) | carVertical Coupons and Promo Codes | carVertical Coupon | CARGR |
+| Country | Website | Page | Title | Button | Discount Code | Percentage |
+|---------|---------|------|-------|--------|---------------|------------|
+| Greece | [istorikocar.gr](https://istorikocar.gr/) | [kouponia-kai-kodikoi-prosforas-carvertical](https://istorikocar.gr/kouponia-kai-kodikoi-prosforas-carvertical/) | carVertical Coupons and Promo Codes | carVertical Coupon | CARGR | 20% |
 
 ## About
 
