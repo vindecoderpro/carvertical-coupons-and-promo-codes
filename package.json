@@ -1,0 +1,27 @@
+{
+  "name": "carvertical-coupons-and-promo-codes",
+  "version": "1.0.0",
+  "description": "carVertical Coupons and Promo Codes - Discount codes for carVertical VIN decoder services in Greece",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "carvertical",
+    "coupons",
+    "promo codes",
+    "discount",
+    "coupon",
+    "vin decoder",
+    "vehicle history",
+    "istorikocar",
+    "greece"
+  ],
+  "author": "vindecoderpro",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vindecoderpro/carvertical-coupons-and-promo-codes"
+  }
+}
+
